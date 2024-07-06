@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b1d2b8cb3cdf01c4195517ee7e2a7730
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - lavaSplashFx: {fileID: 1040608886635896, guid: 4b5a00b8f9ac0f0449b29235d4c04e14, type: 3}
+  - playerBurnFx: {instanceID: 0}
+  - swordhitSound: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
