@@ -12,7 +12,7 @@ It's not the simple Adventure Game. It's a Slappy's Adventure game. This is not 
 • Lose all your progress, over and over.
 
 **How to Play:**
-1. **Play Game:** https://play.google.com/store/apps/details?id=com.DumbKid.SlappysAdventure&pcampaignid=web_share
+1. **Play Game:** https://play.google.com/store/apps/dev?id=8645769112609220728
 2. **Star Playing...**
 
 **Getting Started:**
