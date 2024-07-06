@@ -1,6 +1,6 @@
-# Slappy-s-Adventure
+# Slappy's Adventure
 
-**Slappy-s-Adventure**
+**Slappy's Adventure**
 
 Use the brain and power to complete the impossible mission
 Try try again, Do your best.
